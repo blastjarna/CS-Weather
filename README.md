@@ -7,3 +7,6 @@ Mean temperature recorded for each month since 1884 until present day with 1685 
 Contains 12 columns for month and and 12 for year sorted on highest value first.
 
 https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmean/ranked/England.txt
+
+Code works in Jupyter notebooks and can output html file for interactive Bokeh line graf with mean temperatures.
+Produces a line graph showing mean tempeteratur over time and one showing the same graf with a regression line.
